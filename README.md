@@ -1,7 +1,7 @@
 # Notepad
 This is a replica of the og Microsoft Notepad and is created using Java Swing library.
 I made this text editor because I love it's simplicity in design and I learnt coding using notepad.
-
+![screenshot](https://github.com/Akshatjaiswal5/Notepad/blob/main/screenshot.png)
 ## Features:
 
 1. Creating new files (with any extension).
